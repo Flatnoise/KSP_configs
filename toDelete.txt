@@ -1,0 +1,117 @@
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\MIR\_Eridani_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Port_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Port_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_SolarBasic_1_L.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_SolarBasic_1_R.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_SolarBasic_2_L.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_SolarBasic_2_R.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Orbital_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Orbital_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Engine_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Crew_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\PROGRESS\_Hamal_Habitation_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\PROGRESS\_Hamal_Control_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_MonoSphere_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_MonoSphere_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\NEP\zdeprecated1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\NEP\zdeprecated2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\VOSTOK\_Andromeda_Antenna_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\VOSTOK\_Andromeda_Crew_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\VOSTOK\_Andromeda_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SALYUT\_vega_crew_s1_1_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SALYUT\_vega_crew_s1_2_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\MIR\_Eridani_Solar_1_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\MIR\_Eridani_Solar_2_1.cfg
+
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_A_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_A_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_A_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_A_LFO_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_B_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_B_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_B_Fairing_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_E_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_E_Fairing_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_G_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_G_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_G_Fairing_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_G_LFO_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_G_LFO_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_G_LFO_3.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_H_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_O_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_V_Decoupler_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_V_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_V_Fairing_1.cfg
+
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\PROTON\xxDeprecatedALV_LFO_A.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\PROTON\_ALV_1_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\PROTON\_ALV_1_Engine_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\PROTON\_ALV_2_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\PROTON\_ALV_2_LFO_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\PROTON\_ALV_3_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\PROTON\_ALV_3_LFO_1.cfg
+
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\SOYUZ\_TLV_0_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\SOYUZ\_TLV_0_LFO_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\SOYUZ\_TLV_1_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\SOYUZ\_TLV_1_LFO_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\SOYUZ\_TLV_1_LFO_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\SOYUZ\_TLV_2_LFO_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\KOSMOS\_CLV_1_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\KOSMOS\_CLV_2_Engine_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\KOSMOS\_CLV_2_LFO_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_LFO_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_Crew_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_RCS_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_Leg_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_Antenna_2.cfg
+
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\Food.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\FoodLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\FoodLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\FoodSmall.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\LifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\LifeSupportLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\LifeSupportLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\LifeSupportSmall.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\Oxygen.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\OxygenLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\OxygenLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\OxygenSmall.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\Waste.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\WasteLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\WasteLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\WasteSmall.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\Water.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\WaterLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\WaterLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\WaterSmall.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanBreathingOxygen\LargeOxygen.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanBreathingOxygen\NormalOxygen.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanBreathingOxygen\SmallOxygen.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanDrinkingWater\LargeWater.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanDrinkingWater\NormalWater.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanDrinkingWater\SmallWater.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanFood\LargeFood.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanFood\NormalFood.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanFood\SmallFood.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanLifeSupport\LargeLifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanLifeSupport\NormalLifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanLifeSupport\SmallLifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanWaste\LargeWaste.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanWaste\NormalWaste.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportHexCans\HexCanWaste\SmallWaste.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\LifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\LifeSupportLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\LifeSupportLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\LifeSupportSmall.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\HexCans\LargeLifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\HexCans\NormalLifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\HexCans\SmallLifeSupport.cfg
+
+
+
+
+
+
