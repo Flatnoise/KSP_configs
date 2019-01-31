@@ -13,6 +13,9 @@ e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\PR
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\PROGRESS\_Hamal_Control_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_MonoSphere_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_MonoSphere_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_Habitation_2_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_Crew_2_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_Crew_3_2.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\NEP\zdeprecated1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\NEP\zdeprecated2.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\VOSTOK\_Andromeda_Antenna_1.cfg
@@ -66,6 +69,8 @@ e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_RCS_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_Leg_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LK\_Libra_Antenna_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SALYUT\_vega_fuelsphere_srf_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SALYUT\_vega_fuelsphere_srf_2.cfg
 
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\Food.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportContainers\FoodLarge.cfg
@@ -109,9 +114,78 @@ e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\HexCans\LargeLifeSupport.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\HexCans\NormalLifeSupport.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportMFT\HexCans\SmallLifeSupport.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\AirFilter.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_CarbonExtractor.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_CarbonExtractorLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_CarbonExtractorLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_SabatierCarbonRecycler.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_SabatierCarbonRecyclerLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_SabatierCarbonRecyclerLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_WaterPurifier.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_WaterPurifierLarge.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_WaterPurifierLarge375.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\ThunderAerospace\TacLifeSupportRecyclers\Recycler_WaterSplitter.cfg
 
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Resources\LargeTank\LargeTank.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Resources\SmallTank\SmallTank.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Resources\RadialTank\RadialTank.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Command\probeRoverBody\probeRoverBody.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Command\mk1pod\mk1Pod.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\FuelTank\mk2FuselageLong\LFO_long.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\FuelTank\mk2FuselageShort\LFO_short.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\FuelTank\mk2FuselageShort\Mono_short.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\FuelTank\mk3Fuselage\LFO_100.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\FuelTank\mk3Fuselage\LFO_25.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\FuelTank\mk3Fuselage\LFO_50.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Utility\stackTriCoupler\stackTriCoupler.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Utility\stackBiCoupler\stackBiCoupler.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Engine\liquidEngine48-7S\liquidEngine48-7S.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Engine\liquidEngineLV-909\liquidEngineLV-909.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Squad\Parts\Engine\liquidEnginePoodle\liquidEnginePoodle.cfg
 
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_SRB_125_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_SRB_125_02.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_SRB_625_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_SRB_625_02.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_AtmScoop_125_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_AtmScoop_125_02.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_AtmScoop_250_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Tank_VTS_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Jet_PropFan_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Jet_PropFan_02.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Jet_PropFan_03.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Jet_Radial_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Jet_Stack_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Tank_Radial_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Engine_125_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Engine_250_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Jet_PropFan_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Jet_PropFan_02.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Jet_PropFan_03.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Jet_Radial_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Jet_Stack_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Jet_TurboFan_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\LFKA_Jet_TurboProp_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Tank_125_03.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Tank_125_01.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\UmbraSpaceIndustries\Karbonite\Parts\KA_Tank_125_04.cfg
 
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\pylon1\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\strut1\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\winch1\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\winch2\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\hook_magnet\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\hook_harpoon\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\hook_grapplingHook\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\hook_anchor\part.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\KAS\LEGACY\Parts\cPort1\part.cfg
 
-
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\FuelTank\mp_various_tanks\tinyradial.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\Engine\lf_small_ntr\small_ntr.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\Engine\lfo_tiny_vac\tiny_vac.cfg 
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\Engine\solid_medium_upper\medium_upper.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\Structural\struct_various\small_decoupler_radial.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\Structural\struct_various\small_decoupler_stack.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\Electrical\mp_fuelcells\mp_small_fuelcell.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\RLA_Reborn\Parts\Electrical\medium_solarpanel\part.cfg
 
