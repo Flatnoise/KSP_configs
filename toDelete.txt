@@ -7,17 +7,30 @@ e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SO
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_SolarBasic_2_R.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Orbital_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Orbital_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Habitation_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Habitation_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Engine_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Engine_2.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Crew_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SOYUZ\_Soyuz_Crew_2.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\PROGRESS\_Hamal_Habitation_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\PROGRESS\_Hamal_Control_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\PROGRESS\_Hamal_Control_2.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_MonoSphere_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_MonoSphere_2.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_Habitation_2_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_Crew_2_2.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_Alniyat_Crew_3_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_aquila_crew_s1_1_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_aquila_crew_s1_3_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_aquila_crew_s1p5_1_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_aquila_crew_s1p5_2_2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\FGB\_aquila_crew_s1p5_3_1.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\LOK\_Virgo_Engine_1.cfg
+
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\NEP\zdeprecated1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\NEP\zdeprecated2.cfg
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SALYUT\zDEPRECATED1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\VOSTOK\_Andromeda_Antenna_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\VOSTOK\_Andromeda_Crew_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\VOSTOK\_Andromeda_Decoupler_1.cfg
@@ -25,6 +38,8 @@ e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SA
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\SALYUT\_vega_crew_s1_2_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\MIR\_Eridani_Solar_1_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\MIR\_Eridani_Solar_2_1.cfg
+
+e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\Tantares\Parts\POLYUS\_rotanev_crew_s2_1_1.cfg
 
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_A_Decoupler_1.cfg
 e:\SteamLibrary\steamapps\common\Kerbal Space Program\GameData\TantaresLV\Parts\N1\_LLV_A_Decoupler_1.cfg
